@@ -1,1 +1,4 @@
-[![Demo gameplay] (https://github.com/YuliaMenshykh/ColorItRed/blob/main/Demo.jpg)](https://youtu.be/kkWX9IiYgaI)
+![]([https://github.com/YuliaMenshykh/ColorItRed/blob/main/Demo.jpg])
+[[Demo video]](https://youtu.be/kkWX9IiYgaI)
+
+
